@@ -2,7 +2,6 @@
 
 A Machine Learning-based web application that detects fraudulent credit card transactions using anomaly detection techniques and an XGBoost classifier. The project includes data preprocessing, model training, performance evaluation, and an interactive Streamlit dashboard for real-time predictions.
 
----
 
 ## 📌 Project Overview
 
@@ -10,7 +9,6 @@ Credit card fraud is one of the biggest challenges faced by financial institutio
 
 The application allows users to upload transaction data and instantly predicts whether each transaction is **Fraudulent** or **Legitimate**.
 
----
 
 ## 🚀 Features
 
@@ -31,8 +29,6 @@ The application allows users to upload transaction data and instantly predicts w
 - Streamlit web application
 - Batch prediction using CSV upload
 
----
-
 ## 🛠️ Technologies Used
 
 - Python
@@ -46,8 +42,6 @@ The application allows users to upload transaction data and instantly predicts w
 - Joblib
 - Streamlit
 - Jupyter Notebook
-
----
 
 ## 📂 Project Structure
 
@@ -73,8 +67,6 @@ Credit-Card-Fraud-Detection/
 └── .gitignore
 ```
 
----
-
 ## 📊 Dataset
 
 This project uses the **Credit Card Fraud Detection Dataset** from Kaggle.
@@ -87,7 +79,6 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 Download the dataset manually and place it inside the **data/** folder.
 
----
 
 ## ⚙️ Installation
 
@@ -109,7 +100,6 @@ Install dependencies
 pip install -r requirements.txt
 ```
 
----
 
 ## ▶️ Run the Streamlit Application
 
@@ -123,7 +113,6 @@ The application will open at
 http://localhost:8501
 ```
 
----
 
 ## 📈 Machine Learning Workflow
 
@@ -139,7 +128,6 @@ http://localhost:8501
 10. Save Model
 11. Deploy using Streamlit
 
----
 
 ## 📉 Model Evaluation
 
@@ -153,7 +141,6 @@ The project evaluates the model using:
 - Recall
 - F1 Score
 
----
 
 ## 🖥️ Streamlit Dashboard
 
@@ -164,7 +151,6 @@ The web application allows users to:
 - View prediction results
 - Download predicted output
 
----
 
 ## 📸 Screenshots
 
@@ -178,7 +164,6 @@ screenshots/
     prediction.png
 ```
 
----
 
 ## 🔮 Future Improvements
 
@@ -190,13 +175,11 @@ screenshots/
 - User Authentication
 - Database Integration
 
----
 
 ## 📄 License
 
 This project is licensed under the MIT License.
 
----
 
 ## 👩‍💻 Author
 
@@ -208,7 +191,6 @@ https://github.com/Supriya-2703
 LinkedIn:
 https://www.linkedin.com/in/supriya-bhade
 
----
 
 ## ⭐ If you like this project
 
